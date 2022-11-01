@@ -1,11 +1,7 @@
 // mod sub_topic;
 
 fn main() {
-    println!(
-        "
-    Hello, 
-    world!
-    "
-    )
+    println!
+    ("Hello,world!")
     ;
 }
